@@ -1,0 +1,7 @@
+C:\Users\Maibenben\Desktop\программирование\коллоквиум\коллоквиум\bin\Debug\коллоквиум.exe.config
+C:\Users\Maibenben\Desktop\программирование\коллоквиум\коллоквиум\bin\Debug\коллоквиум.exe
+C:\Users\Maibenben\Desktop\программирование\коллоквиум\коллоквиум\bin\Debug\коллоквиум.pdb
+C:\Users\Maibenben\Desktop\программирование\коллоквиум\коллоквиум\obj\Debug\коллоквиум.csproj.AssemblyReference.cache
+C:\Users\Maibenben\Desktop\программирование\коллоквиум\коллоквиум\obj\Debug\коллоквиум.csproj.CoreCompileInputs.cache
+C:\Users\Maibenben\Desktop\программирование\коллоквиум\коллоквиум\obj\Debug\коллоквиум.exe
+C:\Users\Maibenben\Desktop\программирование\коллоквиум\коллоквиум\obj\Debug\коллоквиум.pdb
